@@ -5,7 +5,7 @@
 Codepath Final Project HobbyHub
 
 ## Notes
-    The DB used is ![Supabase](https://supabase.com/)
+The DB used is ![Supabase](https://supabase.com/)
 ## Installation 
 To run this project locally, follow these steps:
 ``` bash 
@@ -29,7 +29,6 @@ npm run dev
 
 
 ## GIF Walkthrough
+![Walkthrough GIF](https://imgur.com/5OKBb6y.gif)
 Here's a walkthrough of implemented user stories:
 `https://imgur.com/5OKBb6y.gif`
-
- ![Walkthrough GIF](https://imgur.com/5OKBb6y.gif)
